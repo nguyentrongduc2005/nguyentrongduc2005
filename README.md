@@ -10,10 +10,6 @@ I am a 3rd-year IT student dedicated to building high-performance **Backend** sy
   <img src="https://skillicons.dev/icons?i=java,python,js" />
 </p>
 
-### Backend & Distributed Systems
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,flask,kafka,redis" />
-</p>
 
 ### Databases & Execution
 <p align="left">
