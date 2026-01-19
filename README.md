@@ -43,7 +43,7 @@ I am a 3rd-year IT student dedicated to building high-performance **Backend** sy
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ducNguyenEng&show_icons=true&theme=tokyonight&count_private=true" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ducNguyenEng&show_icons=true&theme=tokyonight&count_private=true" /> -->
 </p>
 
 ---
