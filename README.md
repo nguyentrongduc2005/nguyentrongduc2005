@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&pause=1000&color=00BFFF&center=false&vCenter=false&width=800&lines=>_Hi+there!+I'm+Duc+Nguyen;>_Software+%26+AI+Engineer;>_Building+Robust+System+Architecture..." alt="Typing SVG" />
 </p>
 
-### 🚀 Software Engineer | Backend Developer | AI & System Design Enthusiast
-I am a 3rd-year IT student dedicated to building high-performance **Backend** systems and integrating **AI** into production-grade applications.
+##### I am a 3rd-year IT student dedicated to building high-performance **Backend** systems and integrating **AI** into production-grade applications.
 
 ---
 
