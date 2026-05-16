@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,0a0f1c,001f3f&height=250&section=header&text=Hey!%20I%20am%20Duc&fontSize=60&fontColor=ffffff&desc=Software%20and%20AI%20Engineer&descSize=24&descColor=00BFFF&fontAlignY=35&descAlignY=60&animation=twinkling" alt="Cyber AI Banner" />
-</p>
+</p> -->
 <h3 align="center">Software & AI Engineer | Backend Development | Cloud Infrastructure</h3>
 
 <!-- <h4 align="center">I am a Software & AI Engineer focusing on building robust system architectures, scalable AI backends, and production-ready MLOps pipelines. I prioritize clean code, high-throughput designs, and integrating Large Language Models (LLMs) into real-world applications. Always eager to optimize infrastructure and solve complex logic problems.</h4>
@@ -71,7 +71,7 @@
   <a href="https://github.com/nguyentrongduc2005" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 </p>
 
-<br>
+<!-- <br>
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer">
-</p>
+</p> -->
