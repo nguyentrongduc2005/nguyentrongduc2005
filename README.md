@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,0a0f1c,001f3f&height=250&section=header&text=Hey!%20I%20am%20Duc&fontSize=60&fontColor=ffffff&desc=Software%20and%20AI%20Engineer&descSize=24&descColor=00BFFF&fontAlignY=35&descAlignY=60&animation=twinkling" alt="Cyber AI Banner" />
 </p>
 
@@ -52,7 +52,7 @@
   🎯 <a href="#"><b>Automated Programming Skills Assessment (APSAS)</b></a>: High-throughput, low-latency evaluation platform.<br><br>
   💬 <a href="#"><b>WeConnect</b></a>: Scalable real-time messaging backend built with Spring Boot & Socket.io.
 </h4> -->
-<br>
+<!-- <br>
 
 <h1 align="center"> Statistical Data 📊 </h1>
 
@@ -73,4 +73,4 @@
 <br>
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer">
-</p> 
+</p>  --> 
