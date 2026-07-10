@@ -1,11 +1,5 @@
-<h3 align="center"> Connect With Me: </h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/trong-duc-swe" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="https://www.kaggle.com/trngcnguyn25" target="_blank"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/></a>
-  <a href="mailto:nguyentrongduc447@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-  <a href="https://github.com/nguyentrongduc2005" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-</p>
-<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,0a0f1c,001f3f&height=250&section=header&text=Hey!%20I%20am%20Duc&fontSize=60&fontColor=ffffff&desc=Software%20and%20AI%20Engineer&descSize=24&descColor=00BFFF&fontAlignY=35&descAlignY=60&animation=twinkling" alt="Cyber AI Banner" />
 </p>
 
@@ -75,3 +69,10 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer">
 </p>  --> 
+<h3 align="center"> Connect With Me: </h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/trong-duc-swe" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="https://www.kaggle.com/trngcnguyn25" target="_blank"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/></a>
+  <a href="mailto:nguyentrongduc447@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+  <a href="https://github.com/nguyentrongduc2005" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+</p>
